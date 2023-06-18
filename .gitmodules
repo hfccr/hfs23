@@ -1,0 +1,6 @@
+[submodule "hfs-dapp"]
+	path = hfs-dapp
+	url = https://github.com/hfccr/hfs-dapp.git
+[submodule "hfs-contracts"]
+	path = hfs-contracts
+	url = https://github.com/hfccr/hfs-contracts.git
